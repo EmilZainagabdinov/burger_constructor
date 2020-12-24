@@ -1,4 +1,5 @@
 import React from 'react';
+import './PriceCounter.css'
 
 const PriceCounter = props => {
 

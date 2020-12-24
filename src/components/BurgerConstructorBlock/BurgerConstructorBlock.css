@@ -3,6 +3,7 @@
 }
 
 .ConstructorBox {
+  padding-top: 20px;
   display: flex;
   flex-direction: column;
   border: 2px solid #555;
