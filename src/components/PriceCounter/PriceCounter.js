@@ -4,7 +4,7 @@ const PriceCounter = props => {
 
   return (
       <div className="PriceCounter">
-        <p>Price: {props.price}</p>
+        <h4>Price: {props.price}</h4>
       </div>
   );
 };
